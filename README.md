@@ -1,3 +1,5 @@
+# Data Processing for Big Data
+
 This repository holds projects developed in the unit Data Processing for Big Data from the Master of Data Science at Monash University. This unit focuses on big data processing, including volume, complexity, and velocity using the latest big data technologies. In big data volume, it covers large volume data processing using parallel technologies. In large dimensionality (or complexity), it covers various data analytics methods for parallel processing. For the velocity, it covers data streaming processing. 
 
 
